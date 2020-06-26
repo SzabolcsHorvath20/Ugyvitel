@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/btnCustomers"
+        android:title="Customers"
+        android:icon="@drawable/customers"></item>
+    <item android:id="@+id/btnProducts"
+        android:title="Products"
+        android:icon="@drawable/products"></item>
+    <item android:id="@+id/btn_add_customer"
+        android:title="Add customer"
+        android:icon="@drawable/plus"></item>
+</menu>

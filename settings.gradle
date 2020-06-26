@@ -1,0 +1,2 @@
+rootProject.name='Ugyvitel'
+include ':app'
